@@ -1,1 +1,1 @@
-Patika Backend kursunu week 1 consol uygulaması
+Patika Backend kursunun week 1 consol uygulaması
