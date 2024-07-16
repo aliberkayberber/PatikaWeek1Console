@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consoleDeneme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22785c733d80dd33845e63f04ce9adc8939e48af")]
 [assembly: System.Reflection.AssemblyProductAttribute("consoleDeneme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consoleDeneme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
