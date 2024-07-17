@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/consoleDeneme.csproj": {}
+    "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/PatikaWeek1Console/consoleDeneme.csproj": {}
   },
   "projects": {
-    "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/consoleDeneme.csproj": {
+    "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/PatikaWeek1Console/consoleDeneme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/consoleDeneme.csproj",
+        "projectUniqueName": "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/PatikaWeek1Console/consoleDeneme.csproj",
         "projectName": "consoleDeneme",
-        "projectPath": "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/consoleDeneme.csproj",
+        "projectPath": "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/PatikaWeek1Console/consoleDeneme.csproj",
         "packagesPath": "/Users/aliberkayberber/.nuget/packages/",
-        "outputPath": "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/obj/",
+        "outputPath": "/Users/aliberkayberber/Documents/Pratikler/consoleDeneme/PatikaWeek1Console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aliberkayberber/.nuget/NuGet/NuGet.Config"
